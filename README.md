@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sadikuzzaman Limon
 #### Web Designer And Developer
-![Web Designer And Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/287983810_802602711146059_7298297176475725550_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IH08ubGhtd0AX-ifOyh&_nc_ht=scontent.fdac31-1.fna&oh=00_AfDnisiibwTDTqjRJd659Uqa_ZSOEVSmpqj-PTpN33zZGA&oe=638C76CD)
+
 
 I'm Sadikuzzaman, Working as a professional web developer for the last 2+ years. I am experienced in all aspects of web development using PHP and JavaScript. I've skills in core java, swing, JSF, Hibernate, Struts, Spring framework, AngularJs, RESTful web services, JavaScript, jQuery, CSS3, Bootstrap, UiKit, and HTML5.
 
