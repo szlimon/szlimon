@@ -10,7 +10,6 @@ I'm Sadikuzzaman, Working as a professional web developer for the last 2+ years.
 
 Skills: JS / HTML / CSS/BOOTSTRAP/PHP
 
-- 🔭 I’m currently working on Web Cam 
 - 🌱 I’m currently learning Java Script 
 - 💬 Ask me about Web Designer & Developer 
 
