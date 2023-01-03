@@ -2,7 +2,7 @@
 #### Web Designer And Developer
 
 <div align="center">
-<img src="https://i.ibb.co/m5rJ0bT/Pixel-perfect.png" align="center" style="height: 100%," />
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/323539055_697950735179758_104724761358258606_n.png?stp=dst-png_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEJWYScX_91YUZPG8g3AW_G67ZOb9SQ3mLrtk5v1JDeYrrnARcTRUbNvQ74gpQRS3kJ6iGgViOmkT-NL7KBLuYY&_nc_ohc=hsEsv2t-njYAX8hD9by&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ1U4Je5OmfvtWXAQFHsPdjSAq-f5rU5OMIFN-9pgIVlw&oe=63DBE00A" align="center" style="height: 100%," />
 </div>
 
 I'm Sadikuzzaman, Working as a professional web developer for the last 2+ years. I am experienced in all aspects of web development using PHP and JavaScript. I've skills in core java, swing, JSF, Hibernate, Struts, Spring framework, AngularJs, RESTful web services, JavaScript, jQuery, CSS3, Bootstrap, UiKit, and HTML5.
