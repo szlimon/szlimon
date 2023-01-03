@@ -2,7 +2,7 @@
 #### Web Designer And Developer
 
 <div align="center">
-<img src="https://i.ibb.co/m5rJ0bT/Pixel-perfect.png" align="center" style="width: 100%, height: 100%" />
+<img src="https://i.ibb.co/m5rJ0bT/Pixel-perfect.png" align="center" style="height: 100%," />
 </div>
 
 I'm Sadikuzzaman, Working as a professional web developer for the last 2+ years. I am experienced in all aspects of web development using PHP and JavaScript. I've skills in core java, swing, JSF, Hibernate, Struts, Spring framework, AngularJs, RESTful web services, JavaScript, jQuery, CSS3, Bootstrap, UiKit, and HTML5.
